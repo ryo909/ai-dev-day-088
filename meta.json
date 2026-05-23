@@ -66,7 +66,7 @@
   "mechanic": "threshold_slider",
   "input_style": "cost_factor_rows",
   "output_style": "decision_meter",
-  "output_label": "ここを見ればOKです",
+  "output_label": "境界線はここです",
   "audience_promise": "迷いを、見積もり確認・修理予約・買い替え検討の次アクションへ落とせる。",
   "publish_hook": "修理額、買い替え額、待ち日数、使えない困り度、愛着メモを入れると、境界線と次の確認先が見える。",
   "engine": "brief_driven",
